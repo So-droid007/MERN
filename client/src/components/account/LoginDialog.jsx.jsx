@@ -14,7 +14,7 @@ const LoginDialog = ()=>{
         <Dialog open={true}
         PaperProps={{sx: Dialogstyle}}>
 
-            <p>Hello</p>
+            <p>Continue from here</p>
 
         </Dialog>
             
