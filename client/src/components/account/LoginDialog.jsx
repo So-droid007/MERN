@@ -62,6 +62,7 @@ const LoginDialog = ()=>{
         <Dialog open={true}
         PaperProps={{sx: Dialogstyle}}>
 
+
             <Container>
                 <Container1>
 
@@ -89,10 +90,6 @@ const LoginDialog = ()=>{
                     </Box>
                 </Box>
             </Container>
-
-
-
-           
 
         </Dialog>
             
